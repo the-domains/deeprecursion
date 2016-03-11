@@ -1,0 +1,28 @@
+name: Deeprecursion
+favicon: null
+layout_spectrum: 0.33134372951462865
+typography_spectrum: 0.9261338682845235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.25474925083108246
+  lightness: 0.31586912320926785
+  saturation: 0.9705985172186047
+  rhythmicContrast: 0.9384258682839572
+purpose: []
